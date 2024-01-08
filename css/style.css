@@ -126,7 +126,7 @@ html, body {
   place-items: center;
   border: 4px;
   border-radius: 20px;
-  background: linear-gradient(-45deg, #00b7ff, #ff00c8), url(/img/header/ФОТО\ копия\ 1.svg);
+  background: linear-gradient(-45deg, #00b7ff, #ff00c8), url(img/header/ФОТО копия 1.svg);
 }
 
 .header__img {
