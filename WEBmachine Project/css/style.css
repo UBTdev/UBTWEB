@@ -18,7 +18,10 @@ html, body {
 
 .button {}
 
-.logo {}
+.logo {
+  width: 486px;
+  height: 740px;
+}
 
 .header__logo-img {
   width: 100%;
