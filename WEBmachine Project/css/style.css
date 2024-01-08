@@ -28,7 +28,10 @@ html, body {
   min-width: 70px;
 }
 
-.header__logo {}
+.header__logo {
+  width: 100%;
+  min-width: 70px;
+}
 
 /* ===================================================== */
 
